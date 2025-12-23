@@ -17,8 +17,11 @@ AI / ML Engineer building **end-to-end Machine Learning, Deep Learning, Computer
   MobileNet-based deep learning model deployed as a Streamlit web app  
 
 ### 🛠 Tech Stack
-Python • SQL • Machine Learning • Deep Learning • CNN • Computer Vision  
-GenAI • RAG • Docker • AWS (EC2, ECR) • Streamlit
+Machine Learning: Supervised Learning (Regression, Classification), Model Evaluation  
+Deep Learning: ANN, CNN, RNN (LSTM, GRU)  
+Computer Vision: Image Classification (CNN, MobileNet)  
+NLP & GenAI: NLP, Transformers, BERT, RAG  
+Deployment & MLOps: Docker, AWS (EC2, ECR), Streamlit  
 
 📍 Hyderabad, India  
 🔗 LinkedIn | 📄 Resume | 📧 Email
